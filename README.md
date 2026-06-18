@@ -1,5 +1,6 @@
 # Masters-Thesis---Valorant-Pre-Match-Betting-Engineer-
 Valorant Esports Pre-Match Betting  Advisory System uses Machine Learning to  Predict Winning Probability and Simulate  Odds and Earning Projections.
+Published Link - https://norma.ncirl.ie/8770/
 
 Over the last few years, the esports world has seen significant growth and Valorant 
 has become the most popular competitive game. As a result of this growth, the betting 
